@@ -5,6 +5,7 @@
 <div>
   <a href='https://github.com/CharlesPizza/BoxOfficeMovies'><strong>Movie Data Gathering - Web Scraping</strong></a>
   <p>Web scraping is an important tool allowing us to expand our dataset, gathering important features and extend insights. In this project I utilized several webscrapping libraries inorder to build an application to aggregate movie box office performance data across several affiliated websites which have a secure API and flex script. <br>
+  Technologies: Python, HTML, Javascript <br>
   Libraries: bs4, selenium, re, requests, pandas, numpy, lxml</p>
 </div>
 
@@ -18,21 +19,21 @@
 <div>
   <a href='https://github.com/CharlesPizza/FlaskRanking'><strong>Movie Queue Rest API</strong></a>
   <p>In this project I created a FLASK REST API so our discord group can login, add movies to a queue and vote on them so we can see which movie everyone is interested in. Features include an SQLite3 database of horror movies, flex layout, grid layout, search dropdown table selection, ordered view of movies in queue, HTMX for minimal code interactions.<br>
-  Technologies: Python, SQL, HTML, CSS, AJAX
+  Technologies: Python, SQL, HTML, CSS, AJAX<br>
   Libraries: Flask, sqlite3, werkzeug, HTML, CSS, HTMX</p>
 </div>
 
 <div>
   <a href='https://www.github.com/CharlesPizza/'><strong>Movie Recommendation System</strong></a>
   <p>Here we create a recommendation system using a CSR Matrix and a KNNeighbors (Euclidean Distance) Algorthym. The recommendations are item based and segregated by genres. We've created only a small filesystem of images, so the interface reflects only this subsection, however it is ready to be easily converted to the entire movie library as all functions are the same. <br>
-  Technologies: Python, Machine Learning
+  Technologies: Python, Machine Learning<br>
   Libraries: pyarrow, numpy, pandas, scipy, sklearn, </p>
 </div>
 
 <div>
   <a href='https://github.com/CharlesPizza/AudioAnalysisDollyParton'><strong>Audio Analysis of Dolly Parton Interview</strong></a>
   <p>Here we use AssemblyAI to perform audio analysis on small interview segments. We make a few notes on the sentiment analysis and frequency of words used. While the interviews are to small or short to form anything concrete, we are able to draw out a few simple patterns of speech and personal focus.<br>
-  Technologies: Python, AssemblyAI
+  Technologies: Python, AssemblyAI<br>
   Libraries: pandas, hvplot, matplotlib, numpy, AssemblyAI</p>
 </div>
 
